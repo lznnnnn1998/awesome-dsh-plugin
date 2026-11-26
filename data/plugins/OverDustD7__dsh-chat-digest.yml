@@ -1,0 +1,6 @@
+url: https://github.com/OverDustD7/dsh-chat-digest
+name: OverDustD7/dsh-chat-digest
+category: tools
+description:
+  en: 'Summarizes WeChat and QQ chats into a DSH panel for tasks, opportunities, and updates, with links back to the source. One resident session refreshes the panel on a schedule or on demand. Optional chat import requires separately installed tools.'
+  zh: '将微信与 QQ 聊天整理为 DSH 面板中的待办、报名机会和资讯，并附原文链接。一个常驻会话按计划或按需刷新面板。可选的聊天导入功能需要另行安装工具。'

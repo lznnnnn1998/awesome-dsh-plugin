@@ -1,0 +1,7 @@
+url: https://github.com/whitequeen306/dsh-logistics
+name: whitequeen306/dsh-logistics
+category: dev
+description:
+  en: 'AI-written code often has problems in correctness, security, robustness, maintainability and performance, so /logi sends five experts to optimize the project.'
+  zh: '我们发现 AI 完成的过程通常会存在正确性/安全/健壮性/可维护性/性能等方面问题，于是我们提供一组 /logi 命令派出正确性/安全/健壮性/可维护性/性能五位专家来为项目做优化。'
+icon: https://raw.githubusercontent.com/whitequeen306/dsh-logistics/main/assets/icon-512.png

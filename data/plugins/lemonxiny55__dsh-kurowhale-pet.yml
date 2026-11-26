@@ -1,0 +1,7 @@
+url: https://github.com/lemonxiny55/dsh-kurowhale-pet
+name: lemonxiny55/dsh-kurowhale-pet
+category: fun
+description:
+  en: "Unofficial Windows x64 whale-girl desktop pet for DSH (>=0.2.1-rc.3) with 12 animations, autonomous idle actions, head-pat/poke reactions, side-mounted approval card, and offline daily stats. Requires WebView2; runtime and artwork are SHA-256 verified."
+  zh: "KuroWhale 黑色系鲸鱼娘桌宠（Windows x64，兼容 DSH >=0.2.1-rc.3），含 12 组互动动作与自主生活循环、分区摸头戳动反应、侧开式多会话审批浮卡与本地每日陪伴统计；需 WebView2，运行时与素材均做 SHA-256 校验。"
+icon: https://raw.githubusercontent.com/lemonxiny55/dsh-kurowhale-pet/main/docs/images/kurowhale-preview.png
